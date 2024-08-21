@@ -1,0 +1,7 @@
+C:\Users\90506\source\repos\NeKadarClean\NeKadarClean\bin\Debug\NeKadarClean.exe.config
+C:\Users\90506\source\repos\NeKadarClean\NeKadarClean\bin\Debug\NeKadarClean.exe
+C:\Users\90506\source\repos\NeKadarClean\NeKadarClean\bin\Debug\NeKadarClean.pdb
+C:\Users\90506\source\repos\NeKadarClean\NeKadarClean\obj\Debug\NeKadarClean.csproj.AssemblyReference.cache
+C:\Users\90506\source\repos\NeKadarClean\NeKadarClean\obj\Debug\NeKadarClean.csproj.CoreCompileInputs.cache
+C:\Users\90506\source\repos\NeKadarClean\NeKadarClean\obj\Debug\NeKadarClean.exe
+C:\Users\90506\source\repos\NeKadarClean\NeKadarClean\obj\Debug\NeKadarClean.pdb

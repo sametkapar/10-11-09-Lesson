@@ -1,0 +1,7 @@
+C:\Users\90506\source\repos\OverrideKavrami\OverrideKavrami\obj\Debug\OverrideKavrami.csproj.AssemblyReference.cache
+C:\Users\90506\source\repos\OverrideKavrami\OverrideKavrami\obj\Debug\OverrideKavrami.csproj.CoreCompileInputs.cache
+C:\Users\90506\source\repos\OverrideKavrami\OverrideKavrami\bin\Debug\OverrideKavrami.exe.config
+C:\Users\90506\source\repos\OverrideKavrami\OverrideKavrami\bin\Debug\OverrideKavrami.exe
+C:\Users\90506\source\repos\OverrideKavrami\OverrideKavrami\bin\Debug\OverrideKavrami.pdb
+C:\Users\90506\source\repos\OverrideKavrami\OverrideKavrami\obj\Debug\OverrideKavrami.exe
+C:\Users\90506\source\repos\OverrideKavrami\OverrideKavrami\obj\Debug\OverrideKavrami.pdb
